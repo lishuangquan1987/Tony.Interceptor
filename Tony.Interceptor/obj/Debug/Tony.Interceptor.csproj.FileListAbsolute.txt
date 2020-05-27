@@ -1,0 +1,5 @@
+F:\Project2020\Tony.Interceptor\Tony.Interceptor\bin\Debug\Tony.Interceptor.dll
+F:\Project2020\Tony.Interceptor\Tony.Interceptor\bin\Debug\Tony.Interceptor.pdb
+F:\Project2020\Tony.Interceptor\Tony.Interceptor\obj\Debug\Tony.Interceptor.csprojAssemblyReference.cache
+F:\Project2020\Tony.Interceptor\Tony.Interceptor\obj\Debug\Tony.Interceptor.dll
+F:\Project2020\Tony.Interceptor\Tony.Interceptor\obj\Debug\Tony.Interceptor.pdb

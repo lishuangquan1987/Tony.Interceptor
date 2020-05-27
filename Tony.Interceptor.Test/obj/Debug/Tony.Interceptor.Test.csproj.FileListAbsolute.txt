@@ -1,0 +1,8 @@
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\bin\Debug\Tony.Interceptor.Test.exe
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\bin\Debug\Tony.Interceptor.Test.pdb
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\bin\Debug\Tony.Interceptor.dll
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\bin\Debug\Tony.Interceptor.pdb
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\obj\Debug\Tony.Interceptor.Test.csprojAssemblyReference.cache
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\obj\Debug\Tony.Interceptor.Test.csproj.CopyComplete
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\obj\Debug\Tony.Interceptor.Test.exe
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Test\obj\Debug\Tony.Interceptor.Test.pdb
