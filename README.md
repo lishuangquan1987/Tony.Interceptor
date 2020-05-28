@@ -2,11 +2,11 @@
 
 This is a project written by C# that can intercept instance method you want
 
-You can do something before invoke and do something after  when you invoke the method
+You can do something before and do something after  when you invoke the method
 
 # why use Tony.Interceptor
 
-You can image you have write thousands of methods.one day ,your boss requires you to add the log for each method,you are driven mad.Would you want write the log code in each method?
+You can image you have write thousands of methods.one day ,your boss requires you to add the log for each method,you are driven mad.Would you want to write the log code in each method?
 
 or you use the third part AOP Framework?That is very heavy
 
