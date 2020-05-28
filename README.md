@@ -1,16 +1,16 @@
 # Welcome to Tony.Interceptor
 
-this is a project written by C# that can intercept instance method you want
+This is a project written by C# that can intercept instance method you want
 
-you can do before and do after when you invoke the method
+You can do something before invoke and do something after  when you invoke the method
 
 # why use Tony.Interceptor
 
-you can image you have write thousands of method,and one day ,your boss require you add the log for each method,you are driven mad.would you want write the log code in each method?
+You can image you have write thousands of methods.one day ,your boss requires you to add the log for each method,you are driven mad.Would you want write the log code in each method?
 
-or you use the third part AOP Framework?that is very heavy
+or you use the third part AOP Framework?That is very heavy
 
-no,this is the reason you use Tony.Intercetor!!!
+No,this is the reason you use Tony.Intercetor!!!
 
 # usage
 
@@ -35,13 +35,13 @@ class LogInterceptor : IInterceptor
 
 ## 2.markup the class or method that you want to Intercept
 
-first of all,the class must extend to `ContextBoundObject`
+First of all,the class must extend to `ContextBoundObject`
 
-then,you can use `InterceptorAttribute` to mark the class or a **instance** method in the class
+Then,you can use `InterceptorAttribute` to mark the class or a **instance** method in the class
 
-if you mark the class ,it is intercept all the public instance method by default.
+If you mark the class ,it intercepts all the public instance method by default.
 
-if you do not want to intercept a method int the marked class,you can use `InterceptorIgnoreAttribute`
+If you do not want to intercept a method int the marked class,you can use `InterceptorIgnoreAttribute`
 
 ```csharp
 [Interceptor(typeof(LogInterceptor))]
