@@ -12,6 +12,7 @@ namespace Tony.Interceptor.Test
             Test test = new Test();
             test.TestMethod();
             test.Add(5,6);
+            test.MethodNotIntercept();
             Console.Read();
         }
     }

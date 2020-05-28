@@ -17,5 +17,11 @@ namespace Tony.Interceptor.Test
             Console.WriteLine("执行Add方法");
             return a + b;
         }
+        [InterceptorIgnore]
+        public void MethodNotIntercept()
+        {
+            Console.WriteLine("MethodNotIntercept");
+        }
+
     }
 }
