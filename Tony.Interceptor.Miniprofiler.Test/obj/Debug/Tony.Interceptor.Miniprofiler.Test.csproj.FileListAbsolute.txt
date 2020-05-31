@@ -1,0 +1,17 @@
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\Tony.Interceptor.Miniprofiler.Test.exe.config
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\Tony.Interceptor.Miniprofiler.Test.exe
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\Tony.Interceptor.Miniprofiler.Test.pdb
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\Dapper.dll
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\MiniProfiler.dll
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\System.Data.SQLite.dll
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\Tony.Interceptor.dll
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\Tony.Interceptor.pdb
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\Dapper.xml
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\MiniProfiler.pdb
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\MiniProfiler.xml
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\System.Data.SQLite.xml
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\bin\Debug\System.Data.SQLite.dll.config
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\obj\Debug\Tony.Interceptor.Miniprofiler.Test.csprojAssemblyReference.cache
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\obj\Debug\Tony.Interceptor.Miniprofiler.Test.csproj.CopyComplete
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\obj\Debug\Tony.Interceptor.Miniprofiler.Test.exe
+F:\Project2020\Tony.Interceptor\Tony.Interceptor.Miniprofiler.Test\obj\Debug\Tony.Interceptor.Miniprofiler.Test.pdb

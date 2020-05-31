@@ -41,9 +41,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IInterceptor.cs" />
+    <Compile Include="Interceptable.cs" />
     <Compile Include="IntercepterAttribute.cs" />
     <Compile Include="InterceptorIgnore.cs" />
     <Compile Include="InterceptorProperty.cs" />
+    <Compile Include="InterceptorSetting.cs" />
     <Compile Include="InterceptorSink.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

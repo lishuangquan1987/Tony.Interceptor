@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tony.Interceptor", "Tony.In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tony.Interceptor.Test", "Tony.Interceptor.Test\Tony.Interceptor.Test.csproj", "{C51FB27F-1420-413B-9865-0EAD44CA720F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tony.Interceptor.Miniprofiler.Test", "Tony.Interceptor.Miniprofiler.Test\Tony.Interceptor.Miniprofiler.Test.csproj", "{24DE3ED4-E2D3-426D-947B-C07268E443C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C51FB27F-1420-413B-9865-0EAD44CA720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C51FB27F-1420-413B-9865-0EAD44CA720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C51FB27F-1420-413B-9865-0EAD44CA720F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DE3ED4-E2D3-426D-947B-C07268E443C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DE3ED4-E2D3-426D-947B-C07268E443C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DE3ED4-E2D3-426D-947B-C07268E443C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DE3ED4-E2D3-426D-947B-C07268E443C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

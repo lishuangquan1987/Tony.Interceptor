@@ -35,7 +35,7 @@ class LogInterceptor : IInterceptor
 
 ## 2.markup the class or method that you want to Intercept
 
-First of all,the class must extend to `ContextBoundObject`
+First of all,the class must extend to `Interceptable`,in fact,the class `Interceptable` extends from `ContextBoundObject`,just put the class into the environment context
 
 Then,you can use `InterceptorAttribute` to mark the class or a **instance** method in the class
 
@@ -80,5 +80,13 @@ class Program
 }
 ```
 
+# Global Setting
 
+this is a switch that can enable or disable the interceptor.the switch is:
+
+```csharp
+public static bool IsEnableIntercept { get; set; } = true;
+```
+
+the default value is true.if we set to false,the interceptor we have deployed is invalid
 

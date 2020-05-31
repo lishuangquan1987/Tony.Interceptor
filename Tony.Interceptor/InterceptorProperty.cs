@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Tony.Interceptor
 {
-    public class InterceptorProperty : IContextProperty, IContributeServerContextSink
+    internal class InterceptorProperty : IContextProperty, IContributeServerContextSink
     {
         public string Name => nameof(InterceptorProperty);
 
