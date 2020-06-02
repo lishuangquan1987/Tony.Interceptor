@@ -16,7 +16,7 @@ namespace Tony.Interceptor
         public Type InterceptorHandleType;
         public InterceptorAttribute(Type iinterceptorType):base("Test")
         {
-            if (iinterceptorType.GetInterface(nameof(IInterceptor))==null)
+            if (iinterceptorType.GetInterface(nameof(IInterceptHandler))==null)
                 throw new Exception("拦截器处理类必须实现IInterceptor");
             this.InterceptorHandleType = iinterceptorType;
         }

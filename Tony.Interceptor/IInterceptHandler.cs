@@ -6,7 +6,10 @@ using System.Text;
 
 namespace Tony.Interceptor
 {
-    public interface IInterceptor
+    /// <summary>
+    /// 拦截器拦截处理接口
+    /// </summary>
+    public interface IInterceptHandler
     {
         /// <summary>
         /// 执行方法之前处理
